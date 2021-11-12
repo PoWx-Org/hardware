@@ -1,6 +1,6 @@
-# obtc-hardware
+# oPoW Hardware
 
-This repository contains the hardware design information for the [PoWx](https://www.powx.org/) optical computing system used in the [oPoW oBTC core](https://github.com/PoWx-Org/obtc-core).
+The repository contains the design from for the [Optical Proof of Work](https://arxiv.org/abs/1911.05193) paper.
 
 Designed by [SiEPIC Kits](https://www.siepic.com/). Please contant Mustafa Hammood (mustafa@siepic.com) for further design details.
 
