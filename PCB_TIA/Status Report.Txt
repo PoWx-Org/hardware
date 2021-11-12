@@ -1,0 +1,30 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [TIA_PCB.PrjPcb]
+   Generated File[TIA_PCB.GTO]
+   Generated File[TIA_PCB.GTP]
+   Generated File[TIA_PCB.GTS]
+   Generated File[TIA_PCB.GTL]
+   Generated File[TIA_PCB.GBL]
+   Generated File[TIA_PCB.GBS]
+   Generated File[TIA_PCB.GBP]
+   Generated File[TIA_PCB.GBO]
+   Generated File[TIA_PCB.GM1]
+   Generated File[TIA_PCB.GM4]
+   Generated File[TIA_PCB.GM13]
+   Generated File[TIA_PCB.GM15]
+   Generated File[TIA_PCB.GM16]
+   Generated File[TIA_PCB.GKO]
+   Generated File[TIA_PCB.1]
+   Generated File[TIA_PCB.GML]
+   Generated File[TIA_PCB.GD1]
+   Generated File[TIA_PCB.GG1]
+   Generated File[TIA_PCB.RUL]
+   Generated File[TIA_PCB.EXTREP]
+   Generated File[TIA_PCB.REP]
+
+
+Files Generated   : 21
+Documents Printed : 0
+
+Finished Output Generation At 3:26:05 PM On 2019-07-22

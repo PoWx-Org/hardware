@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[carrier.TXT]
+   Generated File[carrier.LDP]
+   Generated File[carrier.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:07:13 PM On 2019-07-21

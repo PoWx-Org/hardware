@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[interposer.GTO]
+   Generated File[interposer.GTP]
+   Generated File[interposer.GTS]
+   Generated File[interposer.GTL]
+   Generated File[interposer.GBL]
+   Generated File[interposer.GBS]
+   Generated File[interposer.GBP]
+   Generated File[interposer.GBO]
+   Generated File[interposer.GM1]
+   Generated File[interposer.GKO]
+   Generated File[interposer.1]
+   Generated File[interposer.GML]
+   Generated File[interposer.GD1]
+   Generated File[interposer.GG1]
+   Generated File[interposer.RUL]
+   Generated File[interposer.EXTREP]
+   Generated File[interposer.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 8:55:22 PM On 2019-07-21
