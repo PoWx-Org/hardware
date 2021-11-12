@@ -13,3 +13,6 @@ Please read the [documentation here](siepic_powx_hardware.pdf) for details about
 
 As the designer of the TIA board, i highly recommend you redesign the board personally :) There's much room for improvement and the design.
 
+# Coming soon
+
+-The GDS provided here doesn't allow for completely arbitrary matrix mults (not enough heater controlled MZIs in the mesh). We'll upload a newer 8x8 multiplier design shortly that can perform any arbitrary unitary matrix. 
